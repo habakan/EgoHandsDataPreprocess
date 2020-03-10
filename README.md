@@ -11,3 +11,9 @@ $ unzip egohands_data
 $ mkdir Annotations
 $ python convert_vocformat.py
 ```
+
+Move Jpeg Files
+```
+$ mkdir JPEGImages
+$ python move_images.py
+```
